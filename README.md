@@ -1,2 +1,2 @@
 # SpotLight
-security system
+security syst
